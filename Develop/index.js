@@ -9,7 +9,7 @@ const fs = require("fs");
 
 
 // TODO: Create an array of questions for user input
-const questions = [ 
+inquirer.prompt ([ 
   {
     type: "input", 
     name: "title",
@@ -20,8 +20,17 @@ const questions = [
     type: "input", 
     name: "email",
     message: "What is your email?"
+  },
+  {
+    type: "list",
+    name: "license",
+    message: "What license does your app use? (use arrows)",
+    choices: ["Mozilla", "MIT", "Appache"]
   }
-];
+
+]).then (response => {
+  fs.writeFileSync("README.md", generateMarkdown(response))
+})
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
