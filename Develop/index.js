@@ -11,41 +11,42 @@
 
 
 
-
-
-
-
-
-
 // TODO: Create an array of questions for user input
-inquirer.prompt ([ 
-  {
-    type: "input", 
-    name: "title",
-    message: "What is the name of your project?"
-  },
+const promptUser = () => {
+return inquirer.prompt ([ 
+    {
+      type: "input", 
+      name: "title",
+      message: "What is the name of your project?"
+    },
 
-  {
-    type: "input", 
-    name: "email",
-    message: "What is your email?"
-  },
-  {
-    type: "list",
-    name: "license",
-    message: "What license does your app use? (use arrows)",
-    choices: ["Mozilla", "MIT", "Apache"]
-  }
+    {
+      type: "input", 
+      name: "email",
+      message: "What is your email?"
+    },
+    {
+      type: "list",
+      name: "license",
+      message: "What license does your app use? (use arrows)",
+      choices: ["Mozilla", "MIT", "Apache"]
+    }
+  ]);
+};
 
-]).then (response => {
+promptUser.then (response => {
   fs.writeFileSync("README.md", generateMarkdown(response))
 })
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+
+}
 
 // Function call to initialize app
 init();
