@@ -54,7 +54,9 @@ function generateMarkdown(response) {
   2. [Installation](#installation)
 
   3. [Usage Information](#usage-information)
+
   4. [Contributing](#contributing)
+  
   5. [Tests](#tests)
 
 

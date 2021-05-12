@@ -74,11 +74,11 @@ inquirer.prompt ([
 
 // TODO: Create a function to write README file
 .then (response => {
+    //(FILE NAME, FUNCTION NAME, PARAMETER)
   fs.writeFileSync("README.md", generateMarkdown(response))
 })
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
+
 
 // TODO: Create a function to initialize app
 function init() {}
