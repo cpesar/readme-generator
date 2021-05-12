@@ -30,7 +30,38 @@ inquirer.prompt ([
     name: "license",
     message: "What license does your app use? (use arrows)",
     choices: ["Mozilla", "MIT", "Apache"]
+  },
+
+  {
+    type: "input",
+    name: "description",
+    message: "Please provide a brief description of your project"
+  },
+
+  {
+    type: "input",
+    name: "installation",
+    message: "Please provide the installation instructions for your project"
+  },
+
+  {
+    type: "input",
+    name: "usage-information",
+    message: "What is the usage information for your project?"
+  },
+
+  {
+    type: "input",
+    name: "contribution",
+    message: "What are the contribution guidelines for your project?"
+  },
+
+  {
+    type: "input",
+    name: "tests",
+    message: "What are the test instructions?"
   }
+
 
 ])
 
