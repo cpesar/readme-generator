@@ -49,14 +49,14 @@ function generateMarkdown(response) {
   # licenseLink: ${renderLicenseLink(response.licenseLink)}
 
   # Table of Contents
-  1. [Description](#description)
+  1. [Description](<h1>#description</h1>)
 
   2. [Installation](#installation)
 
   3. [Usage Information](#usage-information)
 
   4. [Contributing](#contributing)
-  
+
   5. [Tests](#tests)
 
 
