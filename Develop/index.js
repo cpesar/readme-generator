@@ -25,6 +25,13 @@ inquirer.prompt ([
     name: "email",
     message: "What is your email?"
   },
+
+  {
+    type: "input",
+    name: "github",
+    message: "What is your GitHub username"
+  },
+  
   {
     type: "list",
     name: "license",
