@@ -31,7 +31,7 @@ inquirer.prompt ([
     name: "github",
     message: "What is your GitHub username"
   },
-  
+
   {
     type: "list",
     name: "license",
@@ -53,7 +53,7 @@ inquirer.prompt ([
 
   {
     type: "input",
-    name: "usage-information",
+    name: "usage",
     message: "What is the usage information for your project?"
   },
 

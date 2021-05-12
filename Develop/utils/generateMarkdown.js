@@ -50,11 +50,19 @@ function generateMarkdown(response) {
 
   # Table of Contents
   1. [Description](#description)
-        ## <a name="description">${response.description}</a>
+
   2. [Installation](#installation)
+
   3. [Usage Information](#usage-information)
   4. [Contributing](#contributing)
   5. [Tests](#tests)
+
+
+  ## <a name="description">${response.description}</a>
+  ## <a name="installation">${response.installation}</a>
+  ## <a name="usage">${response.usage}</a>
+  ## <a name="contribution">${response.contribution}</a>
+  ## <a name="tests">${response.tests}</a>
 
 `;
 }
