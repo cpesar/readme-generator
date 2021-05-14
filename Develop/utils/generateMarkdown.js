@@ -70,19 +70,19 @@ function generateMarkdown(response) {
 
   6. [Questions](#questions-)
 
-  #Description
+  # Description
   ${response.description}
 
-  #Installation
+  # Installation
   ${response.installation}
 
-  #Usage
+  # Usage
   ${response.usage}
 
-  #Contribution
+  # Contribution
   ${response.contribution}
 
-  #Tests
+  # Tests
   ${response.tests}
 
   
