@@ -1,9 +1,9 @@
 # outofgas
   #outofgas
-  # outogas
-  # license: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  # https://opensource.org/licenses/MIT
-  # license: https://opensource.org/licenses/MIT
+  # outofgas
+  # license:  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  # This app is licensed under Mozilla web services. All rights reserved
+  # license: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
   
 
   # Table of Contents
@@ -19,19 +19,19 @@
 
   6. [Questions](#questions-)
 
-  # Description
+  ## Description
   ## <a name="description">Six weeks into the 2021 season, there hasn’t been much separation in terms of the standings. Through Thursday, 19 of the league’s 30 teams were within 4 1/2 games of first place in their respective divisions, and only four teams were further back than that in the Wild Card races.</a>
 
-  # Installation
+  ## Installation
   ## <a name="installation">Six weeks into the 2021 season, there hasn’t been much separation in terms of the standings. Through Thursday, 19 of the league’s 30 teams were within 4 1/2 games of first place in their respective divisions, and only four teams were further back than that in the Wild Card races.</a>
 
-  # Usage
+  ## Usage
   ## <a name="usage">Six weeks into the 2021 season, there hasn’t been much separation in terms of the standings. Through Thursday, 19 of the league’s 30 teams were within 4 1/2 games of first place in their respective divisions, and only four teams were further back than that in the Wild Card races.</a>
 
-  # Contribution
+  ## Contribution
   ## <a name="contribution">Six weeks into the 2021 season, there hasn’t been much separation in terms of the standings. Through Thursday, 19 of the league’s 30 teams were within 4 1/2 games of first place in their respective divisions, and only four teams were further back than that in the Wild Card races.</a>
 
-  # Tests
+  ## Tests
   ## <a name="tests">Six weeks into the 2021 season, there hasn’t been much separation in terms of the standings. Through Thursday, 19 of the league’s 30 teams were within 4 1/2 games of first place in their respective divisions, and only four teams were further back than that in the Wild Card races.</a>
 
   
