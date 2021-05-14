@@ -71,19 +71,19 @@ function generateMarkdown(response) {
   6. [Questions](#questions-)
 
   # Description
-  ${response.description}
+  ## <a name="description">${response.description}</a>
 
   # Installation
-  ${response.installation}
+  ## <a name="installation">${response.installation}</a>
 
   # Usage
-  ${response.usage}
+  ## <a name="usage">${response.usage}</a>
 
   # Contribution
-  ${response.contribution}
+  ## <a name="contribution">${response.contribution}</a>
 
   # Tests
-  ${response.tests}
+  ## <a name="tests">${response.tests}</a>
 
   
 
@@ -91,11 +91,3 @@ function generateMarkdown(response) {
 }
 
 module.exports = generateMarkdown;
-
-
-// ## <a name="description">${response.description}</a>
-  // ## <a name="installation">${response.installation}</a>
-  // ## <a name="usage">${response.usage}</a>
-
-  // ## <a name="contribution">${response.contribution}</a>
-  // ## <a name="tests">${response.tests}</a>
