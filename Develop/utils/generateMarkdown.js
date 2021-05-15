@@ -56,7 +56,7 @@ function generateMarkdown(response) {
   return `# <p align="center"> ${response.title} </p>
   #${response.description}
   
-  # License: ${renderLicenseBadge(response.license)} ${renderLicenseSection(response.license)}${renderLicenseLink(response.license)}
+  # License: ${renderLicenseBadge(response.license)} <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}
   
 
   # Table of Contents
@@ -80,7 +80,9 @@ function generateMarkdown(response) {
   ## <a name="usage">${response.usage}</a>
 
   ## Contribution
+  <br />
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
+  <br />
   ## <a name="contribution">${response.contribution}</a>
   
 
