@@ -1,4 +1,4 @@
-<p align="center"> # outofgas </p>
+# <p align="center"> outofgas </p>
   #Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.
   
   # License:  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) This application is licensed under Mozilla web services. All rights reserved.https://www.mozilla.org/en-US/MPL/2.0/FAQ/
