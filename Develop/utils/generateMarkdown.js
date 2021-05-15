@@ -54,9 +54,11 @@ function renderLicenseSection(license) {
 function generateMarkdown(response) {
   
   return `# <p align="center"> ${response.title} </p>
+  <br />
   #${response.description}
+  <br />
   
-  # License: ${renderLicenseBadge(response.license)} <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}
+  # License: ${renderLicenseBadge(response.license)} <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
   
 
   # Table of Contents
