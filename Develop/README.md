@@ -1,7 +1,7 @@
-# <p align="center; font-size: 30px;" > README </p>
+# <p align="center; font-size: 30px;"> Layla is Fun! </p>
   #Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.
   
-  # License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This application is licensed under MIT. All rights reserved.https://opensource.org/licenses/MIT
+  # License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This application is licensed under MIT. All rights reserved.[MIT](https://opensource.org/licenses/MIT)
   
 
   # Table of Contents

@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
   if(!license){
     return '';
   } if (license === "Mozilla"){
-    return` [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`
+    return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`
 
   } else if (license === "MIT"){
       return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
@@ -22,13 +22,13 @@ function renderLicenseLink(license) {
   if (!license) {
     return '';
   } if (license === "Mozilla"){
-    return `https://www.mozilla.org/en-US/MPL/2.0/FAQ/`
+    return `[Mozilla](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)`
 
   } else if (license === "MIT"){
-    return `https://opensource.org/licenses/MIT`
+    return `[MIT](https://opensource.org/licenses/MIT)`
 
   } else if (license === "Apache") {
-    return 'https://www.apache.org/licenses/LICENSE-2.0.txt'
+    return `[Apache](https://www.apache.org/licenses/LICENSE-2.0.txt)`
   }
 };
 
@@ -53,7 +53,7 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(response) {
   
-  return `# <p align="center; font-size: 30px;" > ${response.title} </p>
+  return `# <p align="center; font-size: 30px;"> ${response.title} </p>
   #${response.description}
   
   # License: ${renderLicenseBadge(response.license)} ${renderLicenseSection(response.license)}${renderLicenseLink(response.license)}
