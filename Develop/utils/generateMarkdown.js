@@ -58,7 +58,7 @@ function generateMarkdown(response) {
   #${response.description}
   <br />
   
-  # ${renderLicenseBadge(response.license)} 
+  # License: ${renderLicenseBadge(response.license)} <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
   
 
   # Table of Contents
@@ -88,10 +88,8 @@ function generateMarkdown(response) {
   <br />
 
   ## License
-  <br />
-  #${renderLicenseSection(response.license)}
-  #${renderLicenseLink(response.license)}
-  
+ 
+
 
   ## Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
