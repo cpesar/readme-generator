@@ -55,22 +55,20 @@ function generateMarkdown(response) {
   return `# ${response.title}
   #${response.description}
   
-  # license: ${renderLicenseBadge(response.license)}
-  # ${renderLicenseSection(response.license)}
-  # license: ${renderLicenseLink(response.license)}
+  # license: ${renderLicenseBadge(response.license)} ${renderLicenseSection(response.license)}${renderLicenseLink(response.license)}
   
 
   # Table of Contents
 
-  2. [Installation](#installation)
+  1. [Installation](#installation)
 
-  3. [Usage](#usage)
+  2. [Usage](#usage)
 
-  4. [Contribution](#contribution)
+  3. [Contribution](#contribution)
 
-  5. [Tests](#tests)
+  4. [Tests](#tests)
 
-  6. [Questions](#questions)
+  5. [Questions](#questions)
 
   
 
