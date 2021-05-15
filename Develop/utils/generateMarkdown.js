@@ -55,10 +55,13 @@ function generateMarkdown(response) {
   
   return `# <p align="center"> ${response.title} </p>
   <br />
-  #${response.description}
+  <br />
+  # License: ${renderLicenseBadge(response.license)} 
+  <br />
+  ${response.description}
   <br />
   
-  # License: ${renderLicenseBadge(response.license)} 
+  
   
 
   # Table of Contents

@@ -1,9 +1,12 @@
-# <p align="center"> Layla </p>
+# <p align="center"> github </p>
   <br />
-  #BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run
+  <br />
+  # License: [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  <br />
+  BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run
   <br />
   
-  # License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+  
   
 
   # Table of Contents
@@ -24,7 +27,7 @@
 
   ## Installation
   
-  <a name="installation"></a>
+  <a name="installation">BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run</a>
   <br />
 
   ## Usage
@@ -33,7 +36,7 @@
   <br />
 
   ## License
-  <br />This application is licensed under Apache. All rights reserved.<br />[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)<br />
+  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
 
 
   ## Contribution
@@ -48,7 +51,7 @@
   <br />
 
   ## Questions
-  <br /><a name = "email">cpesar1@gmail.com<br /></a><a name = "questions">https://github.com/cpesar</a>
+  <br /><a name = "email">github<br /></a><a name = "questions">github</a>
   <br />
 
   
