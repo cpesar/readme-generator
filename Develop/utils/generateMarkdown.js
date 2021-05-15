@@ -86,10 +86,10 @@ function generateMarkdown(response) {
   <br />
 
   ## Contribution
-  <br />
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
+
   ## <a name="contribution">${response.contribution}</a>
-  <br />
+  
   
 
   ## Tests
