@@ -1,6 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
+  //RETURNS EMPTY STRING
   if(!license){
     return '';
   } if (license === "Mozilla"){
@@ -17,6 +18,7 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
+  //RETURNS EMPTY STRING
   if (!license) {
     return '';
   } if (license === "Mozilla"){
@@ -34,16 +36,17 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 //
 function renderLicenseSection(license) {
+  //RETURNS EMPTY STRING
   if (!license) {
     return '';
   } if (license === "Mozilla"){
-    return 'This app is licensed under Mozilla web services. All rights reserved'
+    return 'This application is licensed under Mozilla web services. All rights reserved'
 
   } else if (license === "MIT"){
-    return `https://opensource.org/licenses/MIT`
+    return `This application is licensed under MIT. All rights reserved.`
 
   } else if (license === "Apache") {
-    return 'https://www.apache.org/licenses/LICENSE-2.0.txt'
+    return 'This application is licensed under Apache. All rights reserved.'
   }
 }
 
@@ -81,6 +84,7 @@ function generateMarkdown(response) {
 
   ## Contribution
   ## <a name="contribution">${response.contribution}</a>
+  '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
   ## Tests
   ## <a name="tests">${response.tests}</a>
