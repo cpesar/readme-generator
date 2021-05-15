@@ -54,6 +54,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(response) {
   
   return `# <p align="center"> ${response.title} </p>
+  <br />
   ${renderLicenseBadge(response.license)} 
   <br />
   ${response.description}
