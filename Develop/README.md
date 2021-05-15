@@ -1,7 +1,7 @@
-# <p align="center"> github </p>
+# <p align="center"> Baseball </p>
   #With the dialog up, if the Link field is empty and you have a URL on the clipboard, the link is automatically filled. This means if you have a URL on the clipboard when pressing ctrl-k the dialog is immediately filled, or if you open the dialog, then pick a URL in a browser or elsewhere, then return to Markdown Monster the URL is automatically filled in and you can simply press Enter to accept and embed the Markdown link.
   
-  # License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) This application is licensed under Apache. All rights reserved.[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)
+  # License: [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) This application is licensed under Mozilla. All rights reserved.[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
   
 
   # Table of Contents
@@ -33,8 +33,8 @@
   ## <a name="tests">With the dialog up, if the Link field is empty and you have a URL on the clipboard, the link is automatically filled. This means if you have a URL on the clipboard when pressing ctrl-k the dialog is immediately filled, or if you open the dialog, then pick a URL in a browser or elsewhere, then return to Markdown Monster the URL is automatically filled in and you can simply press Enter to accept and embed the Markdown link.</a>
 
   ## Questions
-  # <a name = "email">github</a>
-  # <a name = "questions">github</a>
+  ## <a name = "email">cpesar1@gmail.com</a>
+  ## <a name = "questions">cpesar</a>
  
 
   

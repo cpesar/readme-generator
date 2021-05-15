@@ -88,8 +88,8 @@ function generateMarkdown(response) {
   ## <a name="tests">${response.tests}</a>
 
   ## Questions
-  # <a name = "email">${response.email}</a>
-  # <a name = "questions">${response.github}</a>
+  ## <a name = "email">${response.email}</a>
+  ## <a name = "questions">${response.github}</a>
  
 
   
