@@ -26,7 +26,7 @@
 
   
 
-  ## Installation
+  ## :wrench: Installation
   
   <a name="installation"></a>
   <br />
@@ -52,7 +52,7 @@
   <a name="tests"></a>
   <br />
 
-  ## Questions
+  ## :grey_question: Questions
   <br /><a name = "email"><br /></a><a name = "questions"></a>
   <br />
 

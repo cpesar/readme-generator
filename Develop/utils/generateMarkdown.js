@@ -81,7 +81,7 @@ function generateMarkdown(response) {
 
   
 
-  ## Installation
+  ## :wrench: Installation
   
   <a name="installation">${response.installation}</a>
   <br />
@@ -107,7 +107,7 @@ function generateMarkdown(response) {
   <a name="tests">${response.tests}</a>
   <br />
 
-  ## Questions
+  ## :grey_question: Questions
   <br /><a name = "email">${response.email}<br /></a><a name = "questions">${response.github}</a>
   <br />
 
