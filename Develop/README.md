@@ -1,22 +1,22 @@
-# <p align="center"> gtihub </p>
+# <p align="center"> github </p>
   <br />
   #"You don't appreciate guys like that enough until you don't have him," Snitker said. "I just think the presence that he had in the clubhouse, the stability that he added, the professionalism. He had a really, really strong, good career. He's just a wonderful person, carried himself as a pro all the time. It's a really good career -- a really good career. Hopefully he stays around and helps us out."
   <br />
   
-  # License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />This application is licensed under MIT. All rights reserved.<br />[Please click here to view the license](https://opensource.org/licenses/MIT)<br />
+  # License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) <br />This application is licensed under Apache. All rights reserved.<br />[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)<br />
   
 
-  # Table of Contents
+  # <p align="center">Table of Contents</p>
 
-  * [Installation](#installation)
+  * <p align="center">[Installation](#installation)</p>
 
-  * [Usage](#usage)
+  * <p align="center">[Usage](#usage)</p>
 
-  * [Contribution](#contribution)
+  * <p align="center">[Contribution](#contribution)</p>
 
-  * [Tests](#tests)
+  * <p align="center">[Tests](#tests)</p>
 
-  * [Questions](#questions)
+  * <p align="center">[Questions](#questions)</p>
 
   
 
@@ -46,7 +46,7 @@
   ## Questions
   <br />
   ## <a name = "email">github</a>
-  ## <a name = "questions">githubg</a>
+  ## <a name = "questions">github</a>
   <br />
 
   

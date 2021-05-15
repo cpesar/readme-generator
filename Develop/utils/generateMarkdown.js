@@ -61,17 +61,17 @@ function generateMarkdown(response) {
   # License: ${renderLicenseBadge(response.license)} <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
   
 
-  # Table of Contents
+  # <p align="center">Table of Contents</p>
 
-  * [Installation](#installation)
+  * <p align="center">[Installation](#installation)</p>
 
-  * [Usage](#usage)
+  * <p align="center">[Usage](#usage)</p>
 
-  * [Contribution](#contribution)
+  * <p align="center">[Contribution](#contribution)</p>
 
-  * [Tests](#tests)
+  * <p align="center">[Tests](#tests)</p>
 
-  * [Questions](#questions)
+  * <p align="center">[Questions](#questions)</p>
 
   
 
