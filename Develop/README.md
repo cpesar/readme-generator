@@ -35,6 +35,7 @@
   <br />
   <a name="usage"></a>
   <br />
+  Run node index.js at the root of your project and follow the prompts.
 
   ## License
   <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />

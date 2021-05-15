@@ -90,6 +90,7 @@ function generateMarkdown(response) {
   <br />
   <a name="usage">${response.usage}</a>
   <br />
+  Run node index.js at the root of your project and follow the prompts.
 
   ## License
   <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
