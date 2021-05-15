@@ -40,10 +40,10 @@ function renderLicenseSection(license) {
   if (!license) {
     return '';
   } if (license === "Mozilla"){
-    return 'This application is licensed under Mozilla web services. All rights reserved'
+    return 'This application is licensed under Mozilla web services. All rights reserved.'
 
   } else if (license === "MIT"){
-    return `This application is licensed under MIT. All rights reserved.`
+    return 'This application is licensed under MIT. All rights reserved.'
 
   } else if (license === "Apache") {
     return 'This application is licensed under Apache. All rights reserved.'
@@ -53,15 +53,14 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(response) {
   return `# ${response.title}
-  #${response.github}
-  # ${response.email}
+  #${response.description}
+  
   # license: ${renderLicenseBadge(response.license)}
   # ${renderLicenseSection(response.license)}
   # license: ${renderLicenseLink(response.license)}
   
 
   # Table of Contents
-  1. [Description](#description)
 
   2. [Installation](#installation)
 
@@ -73,8 +72,7 @@ function generateMarkdown(response) {
 
   6. [Questions](#questions)
 
-  ## Description
-  ## <a name="description">${response.description}</a>
+  
 
   ## Installation
   ## <a name="installation">${response.installation}</a>
@@ -83,13 +81,17 @@ function generateMarkdown(response) {
   ## <a name="usage">${response.usage}</a>
 
   ## Contribution
-  <br/ >
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
   ## <a name="contribution">${response.contribution}</a>
   
 
   ## Tests
   ## <a name="tests">${response.tests}</a>
+
+  ## Questions
+  # <a name = "email">${response.email}</a>
+  # <a name = "questions">${response.github}</a>
+ 
 
   
 

@@ -1,13 +1,12 @@
-# outoftime
-  #outoftime
-  # outoftime
-  # license:  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-  # This application is licensed under Mozilla web services. All rights reserved
-  # license: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
+# outofgas
+  #Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.
+  
+  # license: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # This application is licensed under Apache. All rights reserved.
+  # license: https://www.apache.org/licenses/LICENSE-2.0.txt
   
 
   # Table of Contents
-  1. [Description](#description)
 
   2. [Installation](#installation)
 
@@ -19,23 +18,26 @@
 
   6. [Questions](#questions)
 
-  ## Description
-  ## <a name="description">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  
 
   ## Installation
-  ## <a name="installation">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  ## <a name="installation">Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.</a>
 
   ## Usage
-  ## <a name="usage">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  ## <a name="usage">Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.</a>
 
   ## Contribution
-  <br/ >
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
-  ## <a name="contribution">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  ## <a name="contribution">Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.</a>
   
 
   ## Tests
-  ## <a name="tests">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  ## <a name="tests">Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.</a>
+
+  ## Questions
+  # <a name = "email">outofgas</a>
+  # <a name = "questions">outofgas</a>
+ 
 
   
 
