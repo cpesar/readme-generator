@@ -74,10 +74,14 @@ function generateMarkdown(response) {
   
 
   ## Installation
+  <br />
   ## <a name="installation">${response.installation}</a>
+  <br />
 
   ## Usage
+  <br />
   ## <a name="usage">${response.usage}</a>
+  <br />
 
   ## Contribution
   <br />
@@ -87,12 +91,15 @@ function generateMarkdown(response) {
   
 
   ## Tests
+  <br />
   ## <a name="tests">${response.tests}</a>
+  <br />
 
   ## Questions
+  <br />
   ## <a name = "email">${response.email}</a>
   ## <a name = "questions">${response.github}</a>
- 
+  <br />
 
   
 
