@@ -1,6 +1,6 @@
 # <p align="center"> github </p>
   <br />
-  #"You don't appreciate guys like that enough until you don't have him," Snitker said. "I just think the presence that he had in the clubhouse, the stability that he added, the professionalism. He had a really, really strong, good career. He's just a wonderful person, carried himself as a pro all the time. It's a really good career -- a really good career. Hopefully he stays around and helps us out."
+  #BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run
   <br />
   
   # License: [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
@@ -23,36 +23,34 @@
   
 
   ## Installation
-  <br />
-  ## <a name="installation">"You don't appreciate guys like that enough until you don't have him," Snitker said. "I just think the presence that he had in the clubhouse, the stability that he added, the professionalism. He had a really, really strong, good career. He's just a wonderful person, carried himself as a pro all the time. It's a really good career -- a really good career. Hopefully he stays around and helps us out."</a>
+  
+  <a name="installation">BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run</a>
   <br />
 
   ## Usage
   <br />
-  ## <a name="usage">"You don't appreciate guys like that enough until you don't have him," Snitker said. "I just think the presence that he had in the clubhouse, the stability that he added, the professionalism. He had a really, really strong, good career. He's just a wonderful person, carried himself as a pro all the time. It's a really good career -- a really good career. Hopefully he stays around and helps us out."</a>
+  <a name="usage">BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run</a>
   <br />
 
   ## License
-  #license: <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
+  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
 
 
   ## Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
   <br />
-  ## <a name="contribution">"You don't appreciate guys like that enough until you don't have him," Snitker said. "I just think the presence that he had in the clubhouse, the stability that he added, the professionalism. He had a really, really strong, good career. He's just a wonderful person, carried himself as a pro all the time. It's a really good career -- a really good career. Hopefully he stays around and helps us out."</a>
+  <a name="contribution">BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run</a>
   <br />
   
 
   ## Tests
   <br />
-  ## <a name="tests">"You don't appreciate guys like that enough until you don't have him," Snitker said. "I just think the presence that he had in the clubhouse, the stability that he added, the professionalism. He had a really, really strong, good career. He's just a wonderful person, carried himself as a pro all the time. It's a really good career -- a really good career. Hopefully he stays around and helps us out."</a>
+  <a name="tests">BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run</a>
   <br />
 
   ## Questions
-  <br />
-  ## <a name = "email">github</a>
-  ## <a name = "questions">github</a>
+  <br /><a name = "email">github</a><a name = "questions">github</a>
   <br />
 
   
