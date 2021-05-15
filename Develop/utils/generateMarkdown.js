@@ -53,10 +53,7 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(response) {
   
-  return `<span style="font-family:rockwell; font-size: 20px>
-  <p align="center"> # ${response.title}
-  </p>
-  </span>
+  return `<p align="center"> # ${response.title} </p>
   #${response.description}
   
   # License: ${renderLicenseBadge(response.license)} ${renderLicenseSection(response.license)}${renderLicenseLink(response.license)}
