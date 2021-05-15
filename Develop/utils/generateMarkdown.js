@@ -65,8 +65,7 @@ function generateMarkdown(response) {
   
   
 
-  ## :book:
-  :open_book: Table of Contents
+  ## :open_book: Table of Contents
 
   * [Installation](#installation)
 

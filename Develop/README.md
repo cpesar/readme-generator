@@ -1,4 +1,4 @@
-# <p align="center"> githubg </p>
+# <p align="center">  </p>
   
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
   <br />
@@ -10,8 +10,7 @@
   
   
 
-  ## :book:
-  :open_book: Table of Contents
+  ## :open_book: Table of Contents
 
   * [Installation](#installation)
 
@@ -53,7 +52,7 @@
   <br />
 
   ## Questions
-  <br /><a name = "email">github<br /></a><a name = "questions">githb </a>
+  <br /><a name = "email"><br /></a><a name = "questions"></a>
   <br />
 
   
