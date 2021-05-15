@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// FUNCTION TO RETURN LICENSE BADGE
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   //RETURNS EMPTY STRING
@@ -15,7 +15,7 @@ function renderLicenseBadge(license) {
   } 
 };
 
-// TODO: Create a function that returns the license link
+// FUNCTION TO RETURN LICENSE LINK
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   //RETURNS EMPTY STRING
@@ -32,7 +32,7 @@ function renderLicenseLink(license) {
   }
 };
 
-// TODO: Create a function that returns the license section of README
+// FUNCTION THAT RETURNS LICENSE SECTION OF README
 // If there is no license, return an empty string
 //
 function renderLicenseSection(license) {
@@ -50,7 +50,7 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// FUCNTION TO GENERATE MARKDOWN FOR README
 function generateMarkdown(response) {
   
   return `# <p align="center"> ${response.title} </p>
@@ -58,20 +58,22 @@ function generateMarkdown(response) {
   #${response.description}
   <br />
   
-  # License: ${renderLicenseBadge(response.license)} <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
+  # ${renderLicenseBadge(response.license)} 
   
 
-  # <p align="center">Table of Contents</p>
+  # Table of Contents
 
-  * <p align="center">[Installation](#installation)</p>
+  * [Installation](#installation)
 
-  * <p align="center">[Usage](#usage)</p>
+  * [Usage](#usage)
 
-  * <p align="center">[Contribution](#contribution)</p>
+  * [License](#license)
 
-  * <p align="center">[Tests](#tests)</p>
+  * [Contribution](#contribution)
 
-  * <p align="center">[Questions](#questions)</p>
+  * [Tests](#tests)
+
+  * [Questions](#questions)
 
   
 
@@ -83,6 +85,13 @@ function generateMarkdown(response) {
   ## Usage
   <br />
   ## <a name="usage">${response.usage}</a>
+  <br />
+
+  ## License
+  <br />
+  ${renderLicenseSection(response.license)}
+  <br />
+  ${renderLicenseLink(response.license)}
   <br />
 
   ## Contribution

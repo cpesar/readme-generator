@@ -1,4 +1,4 @@
-// TODO: PACKAGES NEEDED FOR APPLICATION:
+// PACKAGES NEEDED FOR APPLICATION:
 
   //GRAB FROM GENERATE MARKDOWN FILE
     const generateMarkdown = require("./utils/generateMarkdown");  
@@ -11,7 +11,7 @@
 
 
 
-// TODO: Create an array of questions for user input
+// ARRAY OF QUESTIONS FOR USER INPUT
 
 inquirer.prompt ([ 
   {
@@ -72,19 +72,19 @@ inquirer.prompt ([
 
 ])
 
-// TODO: Create a function to write README file
-.then (response => {
+// FUNCTION TO WRITE TO README FILE
+.then (response => 
+  {
                   //(FILE NAME, FUNCTION NAME, PARAMETER)
   fs.writeFileSync("README.md", generateMarkdown(response))
+  console.log('Successfully Wrote to README.md file');
+  
 })
 
 
 
-// TODO: Create a function to initialize app
-function init() {}
 
-// Function call to initialize app
-init();
+
 
 
 //CRITERIA
