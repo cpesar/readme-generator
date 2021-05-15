@@ -29,8 +29,10 @@
   ## <a name="usage">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
 
   ## Contribution
-  ## <a name="contribution">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  <br/ >
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
+  ## <a name="contribution">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
+  
 
   ## Tests
   ## <a name="tests">Two-way star Shohei Ohtani’s scheduled start on the mound against the Indians on Tuesday will be pushed back due to general fatigue, Angels manager Joe Maddon said before Friday’s game against the Red Sox. Ohtani is coming off his best start in several years, as he allowed one run and</a>
