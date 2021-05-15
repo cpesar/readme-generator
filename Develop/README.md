@@ -34,8 +34,8 @@
 
   ## License
   <br />
-  This application is licensed under MIT. All rights reserved.
-  [Please click here to view the license](https://opensource.org/licenses/MIT)
+  #This application is licensed under MIT. All rights reserved.
+  #[Please click here to view the license](https://opensource.org/licenses/MIT)
   
 
   ## Contribution
