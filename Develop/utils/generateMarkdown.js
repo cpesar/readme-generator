@@ -22,13 +22,13 @@ function renderLicenseLink(license) {
   if (!license) {
     return '';
   } if (license === "Mozilla"){
-    return `[Mozilla](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)`
+    return `[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)`
 
   } else if (license === "MIT"){
-    return `[MIT](https://opensource.org/licenses/MIT)`
+    return `[Please click here to view the license](https://opensource.org/licenses/MIT)`
 
   } else if (license === "Apache") {
-    return `[Apache](https://www.apache.org/licenses/LICENSE-2.0.txt)`
+    return `[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)`
   }
 };
 
@@ -40,7 +40,7 @@ function renderLicenseSection(license) {
   if (!license) {
     return '';
   } if (license === "Mozilla"){
-    return 'This application is licensed under Mozilla web services. All rights reserved.'
+    return 'This application is licensed under Mozilla. All rights reserved.'
 
   } else if (license === "MIT"){
     return 'This application is licensed under MIT. All rights reserved.'
@@ -53,7 +53,7 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(response) {
   
-  return `# <p align="center; font-size: 30px;"> ${response.title} </p>
+  return `# <p align="center"> ${response.title} </p>
   #${response.description}
   
   # License: ${renderLicenseBadge(response.license)} ${renderLicenseSection(response.license)}${renderLicenseLink(response.license)}
