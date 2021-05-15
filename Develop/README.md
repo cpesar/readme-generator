@@ -1,7 +1,10 @@
-<p align="center"># orioles</p>
+<span style="font-family:rockwell; font-size: 20px>
+  <p align="center"> # outofgas
+  </p>
+  </span>
   #Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.
   
-  # License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) This application is licensed under Apache. All rights reserved.https://www.apache.org/licenses/LICENSE-2.0.txt
+  # License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This application is licensed under MIT. All rights reserved.https://opensource.org/licenses/MIT
   
 
   # Table of Contents
@@ -33,8 +36,8 @@
   ## <a name="tests">Means’ 1.21 ERA through his first eight starts is the second-lowest by an O’s starter during that span, trailing only Hoyt Wilhelm (0.91 ERA in 1959). After another scoreless start on Tuesday, Means, the reigning AL Player of the Week, ranks second among all Major League pitchers in WHIP (0.71), ERA (1.21), and inning pitched (52.0). His opponents’ average .152 is the sixth lowest.</a>
 
   ## Questions
-  # <a name = "email">orioles</a>
-  # <a name = "questions">orioles</a>
+  # <a name = "email">outpfgas</a>
+  # <a name = "questions">outofgas</a>
  
 
   
