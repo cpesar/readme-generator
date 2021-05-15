@@ -1,7 +1,5 @@
-# <p align="center"> github </p>
-  <br />
-  <br />
-  # License: [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+# <p align="center"> gtihub </p>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   <br />
   BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run
   <br />
@@ -27,7 +25,7 @@
 
   ## Installation
   
-  <a name="installation">BALTIMORE -- Maikel Franco bounced the Jonathan Loaisiga sinker into the dirt, chopping it on a few easy hops to Yankees third baseman Miguel Andjuar. Whereas one of Franco’s earlier infield grounders could be characterized as a productive out, as it moved a runner over as part of Baltimore’s three-run</a>
+  <a name="installation"></a>
   <br />
 
   ## Usage
@@ -36,7 +34,7 @@
   <br />
 
   ## License
-  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
+  <br />This application is licensed under MIT. All rights reserved.<br />[Please click here to view the license](https://opensource.org/licenses/MIT)<br />
 
 
   ## Contribution
@@ -51,7 +49,7 @@
   <br />
 
   ## Questions
-  <br /><a name = "email">github<br /></a><a name = "questions">github</a>
+  <br /><a name = "email">githb<br /></a><a name = "questions">gitbb</a>
   <br />
 
   
