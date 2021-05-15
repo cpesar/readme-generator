@@ -88,7 +88,7 @@ function generateMarkdown(response) {
   <br />
 
   ## License
-  ${renderLicenseSection(response.license)}${renderLicenseLink(response.license)}
+  <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
 
 
   ## Contribution
@@ -103,7 +103,7 @@ function generateMarkdown(response) {
   <br />
 
   ## Questions
-  <br /><a name = "email">${response.email}</a><a name = "questions">${response.github}</a>
+  <br /><a name = "email">${response.email}<br /></a><a name = "questions">${response.github}</a>
   <br />
 
   
