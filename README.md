@@ -1,10 +1,10 @@
-# <p align="center"> github </p>
+# <p align="center">  </p>
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
   <br />
 
   ## Description
-  
+  ``node index.js``
   <br />
   
   
@@ -27,11 +27,12 @@
   ## :desktop_computer: Usage
   <a name="usage"></a>
   <br />
-  Run node index.js at the root of your project and follow the prompts.
+  Run node index.js at the root of your project and follow the screen prompts.
+  
 
   ## :scroll: License 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  <br />This application is licensed under MIT. All rights reserved.<br />[Please click here to view the license](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 
 
   ## :weight_lifting_man: Contribution
@@ -45,11 +46,9 @@
   
 
   ## :grey_question: Questions
-  :wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
+  :wave: Github: <a name = "questions">[](https://github.com/)</a>
   <br />
-  :postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
-  
-
+  :postbox: Email: <a name = "questions"></a>
 
 
   
