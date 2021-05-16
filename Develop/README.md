@@ -1,6 +1,6 @@
-# <p align="center"> readme.md </p>
+# <p align="center"> hub' </p>
   
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   <br />
 
   ## Description
@@ -39,8 +39,8 @@
 
   ## :scroll: License 
   <a name="license"><br />
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
-  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+  <br />This application is licensed under MIT. All rights reserved.<br />[Please click here to view the license](https://opensource.org/licenses/MIT)<br />
 
 
   ## :weight_lifting_man: Contribution
@@ -50,13 +50,12 @@
   
 
   ## 	:hourglass_flowing_sand: Tests
-  <br />
+  
   <a name="tests">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a>
-  <br />
+  
 
   ## :grey_question: Questions
-  <a name = "email">cpesar<br /><br /></a><a name = "questions">cpesar</a>
- 
+  <a name = "email">hub<br /></a><a name = "questions">hub</a>
 
   
 
