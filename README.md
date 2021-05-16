@@ -1,6 +1,6 @@
-# <p align="center"> README.md Generator </p>
+# <p align="center"> README.md Gnerator </p>
   
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
   <br />
 
   ## Description
@@ -28,19 +28,19 @@
 
   ## :wrench: Installation
   
-  <a name="installation">The season is not so far along that, no matter where your team is, there isn’t a chance to recover. With that in mind, let’s look at a quick fix for every team in baseball -- a way to help one of their deficiencies so far, or at least aid</a>
+  <a name="installation"></a>
   <br />
 
   ## :desktop_computer: Usage
   <br />
-  <a name="usage"> The season is not so far along that, no matter where your team is, there isn’t a chance to recover. With that in mind, let’s look at a quick fix for every team in baseball -- a way to help one of their deficiencies so far, or at least aid</a>
+  <a name="usage">The season is not so far along that, no matter where your team is, there isn’t a chance to recover. With that in mind, let’s look at a quick fix for every team in baseball -- a way to help one of their deficiencies so far, or at least aid</a>
   <br />
   Run node index.js at the root of your project and follow the prompts.
 
   ## :scroll: License 
   <a name="license"><br />
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-  <br />This application is licensed under Apache. All rights reserved.<br />[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)<br />
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
 
 
   ## :weight_lifting_man: Contribution
@@ -55,7 +55,7 @@
   <br />
 
   ## :grey_question: Questions
-  <br /><a name = "email">cpesar1@gmail.com<br /></a><a name = "questions">cpesar</a>
+  <br /><a name = "email">cpesar1<br /></a><a name = "questions">cpesar</a>
   <br />
 
 
