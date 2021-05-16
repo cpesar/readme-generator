@@ -1,10 +1,10 @@
-# <p align="center">  </p>
+# <p align="center"> node.js README.md Generator </p>
   
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
   <br />
 
   ## Description
-  ``node index.js``
+  This is a README.md generator that prompts the user with a series of questions about their project. A proper README is someting that should be included with every project. This application streamlines the process  using the command line to generate a professional looking README.
   <br />
   
   
@@ -21,13 +21,14 @@
   
 
   ## :wrench: Installation
-  <a name="installation"></a>
+  <a name="installation">Clone this repository to your local machine and enter the following commands: ``npm init`` ``npm install inquirer`` </a>
   
 
   ## :desktop_computer: Usage
-  <a name="usage"></a>
+  <a name="usage">Once you are in the command line, ensure that you are in the develop folder and run the following command: ``node index.js`` then simply follow the screen prompts.</a>
   <br />
-  Run node index.js at the root of your project and follow the screen prompts.
+  * Ensure that you are in the proper folder for your project (See attached screenshot)
+  * Type the following command at the root of your project:
   
 
   ## :scroll: License 
@@ -38,17 +39,21 @@
   ## :weight_lifting_man: Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-  <br /><a name="contribution"></a>
+  <br /><a name="contribution">There were no other contributors for this projects</a>
   
 
   ## :hourglass: Tests
-  <a name="tests"></a>
+  <a name="tests">No</a>
   
 
   ## :grey_question: Questions
-  :wave: Github: <a name = "questions">[](https://github.com/)</a>
+  :wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
   <br />
-  :postbox: Email: <a name = "questions"></a>
+  :postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
+  
+
+  
+
 
 
   
