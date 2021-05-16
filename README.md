@@ -50,12 +50,12 @@
   
 
   ## 	:hourglass_flowing_sand: Tests
-  <br />
+  
   <a name="tests">The season is not so far along that, no matter where your team is, there isn’t a chance to recover. With that in mind, let’s look at a quick fix for every team in baseball -- a way to help one of their deficiencies so far, or at least aid</a>
   <br />
 
   ## :grey_question: Questions
-  <br /><a name = "email">cpesar1<br /></a><a name = "questions">cpesar</a>
+  <a name = "email">cpesar1<br /></a><a name = "questions">cpesar</a>
   <br />
 
 
