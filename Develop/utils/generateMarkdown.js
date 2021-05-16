@@ -92,7 +92,7 @@ function generateMarkdown(response) {
   <br />
   Run node index.js at the root of your project and follow the prompts.
 
-  ## License
+  ## :scroll: License ${renderLicenseBadge(response.license)} 
   <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
 
 
