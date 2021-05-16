@@ -6,6 +6,8 @@
     const inquirer = require("inquirer");
   //BUILT IN NODE PACKAGE
     const fs = require("fs");
+  //CHALK FOR COLORS AND STYLING
+    const chalk = require('chalk');
 
 
 

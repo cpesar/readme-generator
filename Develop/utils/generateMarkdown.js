@@ -102,7 +102,7 @@ function generateMarkdown(response) {
   <br /><a name="contribution">${response.contribution}</a><br />
   
 
-  ## Tests
+  ## 	:hourglass_flowing_sand: Tests
   <br />
   <a name="tests">${response.tests}</a>
   <br />
