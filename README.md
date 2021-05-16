@@ -45,10 +45,10 @@
   
 
   ## :grey_question: Questions
+  Shoot me an email: [cpesar](https://github.com/cpesar) <a name = "email"></a><br />
+  GitHub: <a name = "questions">cpesar</a>
   <br />
-  Shoot me an email: <a name = "email">github</a><br />
-  GitHub: <a name = "questions">github</a>
-  <br />
+
 
   
 
