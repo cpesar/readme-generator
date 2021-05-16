@@ -27,12 +27,10 @@
   
 
   ## :wrench: Installation
-  
   <a name="installation">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a>
   <br />
 
   ## :desktop_computer: Usage
-  
   <a name="usage">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a>
   <br />
   Run node index.js at the root of your project and follow the prompts.
