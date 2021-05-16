@@ -11,17 +11,11 @@
   
 
   ## :open_book: Table of Contents
-
   * [Installation](#installation)
-
   * [Usage](#usage)
-
   * [License](#license)
-
   * [Contribution](#contribution)
-
   * [Tests](#tests)
-
   * [Questions](#questions)
 
   
@@ -51,7 +45,9 @@
   
 
   ## :grey_question: Questions
-  <a name = "email">github<br /></a><a name = "questions">github</a>
+  <br />
+  Shoot me an email: <a name = "email">github</a><br />
+  GitHub: <a name = "questions">github</a>
   <br />
 
   
