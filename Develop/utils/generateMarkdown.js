@@ -50,7 +50,7 @@ function renderLicenseSection(license) {
   }
 }
 
-// FUCNTION TO GENERATE MARKDOWN FOR README
+// FUNCTION GENERATE MARKDOWN FOR README
 function generateMarkdown(response) {
   
   return `# <p align="center"> ${response.title} </p>
@@ -66,50 +66,46 @@ function generateMarkdown(response) {
   
 
   ## :open_book: Table of Contents
-
   * [Installation](#installation)
-
   * [Usage](#usage)
-
   * [License](#license)
-
   * [Contribution](#contribution)
-
   * [Tests](#tests)
-
   * [Questions](#questions)
 
   
 
   ## :wrench: Installation
-  
   <a name="installation">${response.installation}</a>
-  <br />
+  
 
   ## :desktop_computer: Usage
-  <br />
   <a name="usage">${response.usage}</a>
   <br />
-  Run node index.js at the root of your project and follow the prompts.
+  * Ensure that you are in the proper folder for your project (See attached screenshot)
+  * Type the following command at the root of your project:
+  
 
-  ## :scroll: License ${renderLicenseBadge(response.license)} 
-  <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}<br />
+  ## :scroll: License 
+  ${renderLicenseBadge(response.license)}
+  <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}
 
 
   ## :weight_lifting_man: Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-  <br /><a name="contribution">${response.contribution}</a><br />
+  <br /><a name="contribution">${response.contribution}</a>
   
 
-  ## 	:hourglass_flowing_sand: Tests
-  <br />
+  ## :hourglass: Tests
   <a name="tests">${response.tests}</a>
-  <br />
+  
 
   ## :grey_question: Questions
-  <br /><a name = "email">${response.email}<br /></a><a name = "questions">${response.github}</a>
+  :wave: Github: <a name = "questions">[${response.github}](https://github.com/${response.github})</a>
   <br />
+  :postbox: Email: <a name = "questions">${response.email}</a>
+  
 
   
 

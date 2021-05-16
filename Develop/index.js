@@ -56,19 +56,19 @@ inquirer.prompt ([
   {
     type: "input",
     name: "usage",
-    message: "What is the usage information for your project?"
+    message: "What is your project used for?"
   },
 
   {
     type: "input",
     name: "contribution",
-    message: "What are the contribution guidelines for your project?"
+    message: "Are there any contributors for your project?"
   },
 
   {
     type: "input",
     name: "tests",
-    message: "What are the test instructions?"
+    message: "Is there a test?"
   }
 
 
@@ -82,7 +82,7 @@ inquirer.prompt ([
   console.log('Successfully Wrote to README.md file');
   
 })
-
+  
 
 
 
