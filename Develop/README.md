@@ -1,58 +1,60 @@
-# <p align="center"> github </p>
+# <p align="center"> node.js README.md Generator </p>
   
-# <p align="center">[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) </p>
-<br />
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  <br />
 
   ## Description
-  Zimmermann’s bulk-relief outing was integral to the Orioles snapping their four-game losing streak, allowing them to come back from an early four-run hole to capture Sunday’s series finale, 10-6, against the Yankees. Inheriting the deficit from opener Adam Plutko, Zimmermann retired 17 of 20 hitters in his first big league appearance since May 2, striking out six.
+  This is a README.md generator that prompts the user with a series of questions about their project. A proper README is someting that should be included with every project. This application streamlines the process  using the command line to generate a professional looking README.
   <br />
   
   
   
 
   ## :open_book: Table of Contents
-
   * [Installation](#installation)
-
   * [Usage](#usage)
-
   * [License](#license)
-
   * [Contribution](#contribution)
-
   * [Tests](#tests)
-
   * [Questions](#questions)
 
   
 
   ## :wrench: Installation
-  <a name="installation">Zimmermann’s bulk-relief outing was integral to the Orioles snapping their four-game losing streak, allowing them to come back from an early four-run hole to capture Sunday’s series finale, 10-6, against the Yankees. Inheriting the deficit from opener Adam Plutko, Zimmermann retired 17 of 20 hitters in his first big league appearance since May 2, striking out six.</a>
-  <br />
+  <a name="installation">Clone this repository to your local machine and enter the following commands: ``npm init`` ``npm install inquirer`` </a>
+  
 
   ## :desktop_computer: Usage
-  <a name="usage">Zimmermann’s bulk-relief outing was integral to the Orioles snapping their four-game losing streak, allowing them to come back from an early four-run hole to capture Sunday’s series finale, 10-6, against the Yankees. Inheriting the deficit from opener Adam Plutko, Zimmermann retired 17 of 20 hitters in his first big league appearance since May 2, striking out six.</a>
+  <a name="usage">Once you are in the command line, ensure that you are in the develop folder and run the following command: ``node index.js`` then simply follow the screen prompts.</a>
   <br />
-    Run node index.js at the root of your project and follow the prompts.
+  * Ensure that you are in the proper folder for your project (See attached screenshot)
+  * Type the following command at the root of your project:
+  
 
   ## :scroll: License 
-  <a name="license">
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
+  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 
 
   ## :weight_lifting_man: Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-  <a name="contribution">Zimmermann’s bulk-relief outing was integral to the Orioles snapping their four-game losing streak, allowing them to come back from an early four-run hole to capture Sunday’s series finale, 10-6, against the Yankees. Inheriting the deficit from opener Adam Plutko, Zimmermann retired 17 of 20 hitters in his first big league appearance since May 2, striking out six.</a><br />
+  <br /><a name="contribution">There were no other contributors for this projects</a>
   
 
-  ## 	:hourglass_flowing_sand: Tests
-  <a name="tests">Zimmermann’s bulk-relief outing was integral to the Orioles snapping their four-game losing streak, allowing them to come back from an early four-run hole to capture Sunday’s series finale, 10-6, against the Yankees. Inheriting the deficit from opener Adam Plutko, Zimmermann retired 17 of 20 hitters in his first big league appearance since May 2, striking out six.</a><br />
+  ## :hourglass: Tests
+  <a name="tests">No</a>
+  
 
   ## :grey_question: Questions
-  <a name = "email">github<br /></a><a name = "questions">github</a>
- 
+  :wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
+  <br />
+  :postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
+  
+
+  
+
+
 
   
 
