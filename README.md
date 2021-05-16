@@ -1,6 +1,6 @@
 # <p align="center"> github </p>
   
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   <br />
 
   ## Description
@@ -30,8 +30,8 @@
   Run node index.js at the root of your project and follow the prompts.
 
   ## :scroll: License 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-  <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <br />This application is licensed under MIT. All rights reserved.<br />[Please click here to view the license](https://opensource.org/licenses/MIT)
 
 
   ## :weight_lifting_man: Contribution
@@ -45,9 +45,9 @@
   
 
   ## :grey_question: Questions
-  Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
+  :wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
   <br />
-  Email: <a name = "questions">cpesar1@gmail.com</a>
+  :postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
   
 
 
