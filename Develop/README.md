@@ -1,10 +1,10 @@
 # <p align="center"> README.md Generator </p>
   
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   <br />
 
   ## Description
-  LOS ANGELES -- Future Hall of Famer Albert Pujols won’t have to drive very far to continue his illustrious career, as the Dodgers and the first baseman have agreed on a one-year Major League deal, multiple sources told MLB.com on Saturday.
+  By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.
   <br />
   
   
@@ -28,33 +28,38 @@
 
   ## :wrench: Installation
   
-  <a name="installation">The Dodgers have not confirmed the agreement, which was first reported by Jorge Castillo of the Los Angeles Times.</a>
+  <a name="installation">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a>
   <br />
 
   ## :desktop_computer: Usage
-  <br />
-  <a name="usage">LOS ANGELES -- Future Hall of Famer Albert Pujols won’t have to drive very far to continue his illustrious career, as the Dodgers and the first baseman have agreed on a one-year Major League deal, multiple sources told MLB.com on Saturday.</a>
+  
+  <a name="usage">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a>
   <br />
   Run node index.js at the root of your project and follow the prompts.
 
-  ## :scroll: License [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-  <br />This application is licensed under Apache. All rights reserved.<br />[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)<br />
+  ## :scroll: License 
+  <a name="license"><br />
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+  <br />This application is licensed under MIT. All rights reserved.<br />[Please click here to view the license](https://opensource.org/licenses/MIT)<br />
 
 
   ## :weight_lifting_man: Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-  <br /><a name="contribution">The Dodgers have not confirmed the agreement, which was first reported by Jorge Castillo of the Los Angeles Times.</a><br />
+  <a name="contribution">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a><br />
   
 
   ## 	:hourglass_flowing_sand: Tests
-  <br />
-  <a name="tests">LOS ANGELES -- Future Hall of Famer Albert Pujols won’t have to drive very far to continue his illustrious career, as the Dodgers and the first baseman have agreed on a one-year Major League deal, multiple sources told MLB.com on Saturday.</a>
+  
+  <a name="tests">By the time Bruce Zimmmermann returned to the Oriole Park mound for Sunday’s second inning, the Orioles’ best-laid pitching plans had already been undone. Monday’s off-day loomed on the horizon temptingly, like a faraway refuge. Yet when Zimmermann walked off 5 2/3 innings later, he did so to a standing ovation from the sellout crowd of 11,070, having stabilized Baltimore’s slapdash pitching staff’s shakiest week yet.</a>
   <br />
 
   ## :grey_question: Questions
-  <br /><a name = "email">cpesar1@gmail.com<br /></a><a name = "questions">https://github.com/cpesar/readme-generator/tree/main/Develop</a>
+  <a name = "email">cpesar1@gmail.com<br /></a><a name = "questions">cpesar</a>
   <br />
+
+  
+
 
   
 
