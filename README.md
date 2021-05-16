@@ -38,7 +38,7 @@
   Run node index.js at the root of your project and follow the prompts.
 
   ## :scroll: License 
-  <br />
+  
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
   <br />This application is licensed under Apache. All rights reserved.<br />[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)<br />
 
@@ -57,6 +57,7 @@
   ## :grey_question: Questions
   <br /><a name = "email">cpesar1@gmail.com<br /></a><a name = "questions">cpesar</a>
   <br />
+
 
   
 
