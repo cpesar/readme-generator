@@ -35,7 +35,7 @@
   <br />
   <a name="usage"></a>
   <br />
-  Run node index.js at the root of your project and follow the prompts.
+    Run node index.js at the root of your project and follow the prompts.
 
   ## :scroll: License [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   <br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)<br />
@@ -55,7 +55,6 @@
   ## :grey_question: Questions
   <br /><a name = "email">github<br /></a><a name = "questions">github</a>
   <br />
-
   
 
 
