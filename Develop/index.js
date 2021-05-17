@@ -115,5 +115,3 @@ inquirer.prompt ([
 
 
 
-                  //LINK TO SAMPLE GITHUB
-// https://github.com/coding-boot-camp/potential-enigma/blob/main/readme-guide.md

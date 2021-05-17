@@ -77,13 +77,15 @@ function generateMarkdown(response) {
 
   ## :wrench: Installation
   <a name="installation">${response.installation}</a>
-  
+  * Type the following command at the root of your project:
+  * Ensure that you are in the proper folder for your project
+  <br />
+
 
   ## :desktop_computer: Usage
   <a name="usage">${response.usage}</a>
   <br />
-  * Ensure that you are in the proper folder for your project (See attached screenshot)
-  * Type the following command at the root of your project:
+  
   
 
   ## :scroll: License 
