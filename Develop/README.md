@@ -23,10 +23,9 @@
   ## :wrench: Installation
   <a name="installation">Clone this repository to your local machine and enter the following commands: ``npm init`` ``npm install inquirer``</a>
   <br />
- <iframe width="560" height="315" src="https://www.youtube.com/embed/MxgHo-TUdaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [README.md command-line walkthrough](https://www.youtube.com/watch?v=KKf_6zAwLfM)
   <br />
-
-  <iframe src="https://drive.google.com/file/d/1USQprmTxogdYUS7280gMbGUlrJPp_HXZ/preview" width="640" height="480"></iframe>
+  [README.md Table of Contents](https://www.youtube.com/watch?v=MxgHo-TUdaI)
   <br />
 
 
