@@ -4,7 +4,7 @@
   <br />
 
   ## Description
-  This is a README.md generator that prompts the user with a series of questions about their project. This application streamlines the process by utilizing command line to generate a professional README.md.
+  This is a README.md generator that prompts the user with a series of questions about their project. This application streamlines the process of writing a README.md by utilizing the command line to generate a professional README.md.
   <br />
   
   
@@ -22,12 +22,16 @@
 
   ## :wrench: Installation
   <a name="installation">Clone this repository to your local machine and enter the following commands: ``npm init`` ``npm install inquirer``</a>
- 
+  <br />
+  <iframe src="https://drive.google.com/file/d/14J-3GaE-y7T6wYinofj4avqoMBsfqU_Y/preview" width="640" height="480"></iframe>
+  <br />
+
+  <iframe src="https://drive.google.com/file/d/1USQprmTxogdYUS7280gMbGUlrJPp_HXZ/preview" width="640" height="480"></iframe>
   <br />
 
 
   ## :desktop_computer: Usage
-  <a name="usage">This project is used to generate a README.md </a>
+  <a name="usage">This project is used to generate a README.md file for your project.</a>
   <br />
   
   
@@ -40,7 +44,7 @@
   ## :weight_lifting_man: Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-  <br /><a name="contribution">There are no other contributors at this time</a>
+  <br /><a name="contribution">There are no contributors at this time.</a>
   
 
   ## :hourglass: Tests
