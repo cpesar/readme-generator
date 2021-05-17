@@ -22,10 +22,10 @@
 
   ## :wrench: Installation
   <a name="installation">``node index.js``</a>
-  * Ensure that you are in the proper folder for your project
-  
-  <br />
   * Type the following command at the root of your project:
+  * Ensure that you are in the proper folder for your project
+  <br />
+
 
   ## :desktop_computer: Usage
   <a name="usage"></a>
