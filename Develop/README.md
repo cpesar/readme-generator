@@ -23,9 +23,10 @@
   ## :wrench: Installation
   <a name="installation"></a>
   * Ensure that you are in the proper folder for your project (See attached screenshot)
-  ![alt text](develop/assets/images/Node.png)
+  ![](Develop/assets/images/Node.png)
   <br />
   * Type the following command at the root of your project:
+
   ## :desktop_computer: Usage
   <a name="usage"></a>
   <br />
