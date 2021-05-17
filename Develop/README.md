@@ -21,7 +21,7 @@
   
 
   ## :wrench: Installation
-  <a name="installation">``node index.js``</a>
+  <a name="installation"></a>
   * Type the following command at the root of your project:
   ``node index.js``
   * Ensure that you are in the proper folder for your project
