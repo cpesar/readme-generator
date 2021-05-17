@@ -21,9 +21,19 @@
   
 
   ## :wrench: Installation
+<<<<<<< HEAD
   <a name="installation">``node index.js``</a>
   * Type the following command at the root of your project:
   * Ensure that you are in the proper folder for your project
+=======
+  <a name="installation"></a>
+  * Type the following command at the root of your project:
+  ``node index.js``
+  * Ensure that you are in the proper folder for your project
+  
+  ![Node](https://user-images.githubusercontent.com/77510555/118427210-ec875900-b689-11eb-8bd9-0808646d7cd6.png)
+
+>>>>>>> d783fe24e6461c051d29885f453a7e3437441a0e
   <br />
 
 
@@ -52,7 +62,61 @@
   :wave: Github: <a name = "questions">[](https://github.com/)</a>
   <br />
   :postbox: Email: <a name = "questions"></a>
+<<<<<<< HEAD
   
 
+=======
+
+  
+
+
+
+  
+
+
+
+  
+
+
+ 
+
+  
+
+
+ 
+
+  
+
+
+
+  
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+ 
+
+  
+
+
+
+
+  
+
+
+
+  
+
+
+>>>>>>> d783fe24e6461c051d29885f453a7e3437441a0e
   
 
