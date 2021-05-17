@@ -1,10 +1,10 @@
-# <p align="center">  </p>
+# <p align="center"> node.js README.md Generator </p>
   
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
   <br />
 
   ## Description
-  
+  This is a README.md generator that prompts the user with a series of questions about their project. A proper README is someting that should be included with every project. This application streamlines the process using the command line to generate a professional looking README.
   <br />
   
   
@@ -21,24 +21,14 @@
   
 
   ## :wrench: Installation
-<<<<<<< HEAD
-  <a name="installation">``node index.js``</a>
+  <a name="installation">Clone this repository to your local machine and enter the following commands:``npm init`` ``npm install inquirer``</a>
   * Type the following command at the root of your project:
   * Ensure that you are in the proper folder for your project
-=======
-  <a name="installation"></a>
-  * Type the following command at the root of your project:
-  ``node index.js``
-  * Ensure that you are in the proper folder for your project
-  
-  ![Node](https://user-images.githubusercontent.com/77510555/118427210-ec875900-b689-11eb-8bd9-0808646d7cd6.png)
-
->>>>>>> d783fe24e6461c051d29885f453a7e3437441a0e
   <br />
 
 
   ## :desktop_computer: Usage
-  <a name="usage"></a>
+  <a name="usage">Once you are in the command line, ensure that you are in the develop folder and run the following command: ``node index.js``</a>
   <br />
   
   
@@ -51,72 +41,18 @@
   ## :weight_lifting_man: Contribution
   '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-  <br /><a name="contribution"></a>
+  <br /><a name="contribution">No</a>
   
 
   ## :hourglass: Tests
-  <a name="tests"></a>
+  <a name="tests">No tests at this time</a>
   
 
   ## :grey_question: Questions
-  :wave: Github: <a name = "questions">[](https://github.com/)</a>
+  :wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
   <br />
-  :postbox: Email: <a name = "questions"></a>
-<<<<<<< HEAD
+  :postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
   
 
-=======
-
-  
-
-
-
-  
-
-
-
-  
-
-
- 
-
-  
-
-
- 
-
-  
-
-
-
-  
-
-
-  
-
-
-
-  
-
-
-
-  
-
-
- 
-
-  
-
-
-
-
-  
-
-
-
-  
-
-
->>>>>>> d783fe24e6461c051d29885f453a7e3437441a0e
   
 
