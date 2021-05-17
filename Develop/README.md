@@ -21,9 +21,9 @@
   
 
   ## :wrench: Installation
-  <a name="installation"></a>
-  * Ensure that you are in the proper folder for your project (See attached screenshot)
-  ![](Develop/assets/images/Node.png)
+  <a name="installation">``node index.js``</a>
+  * Ensure that you are in the proper folder for your project
+  
   <br />
   * Type the following command at the root of your project:
 
