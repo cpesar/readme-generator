@@ -103,7 +103,7 @@ function generateMarkdown(response) {
   
 
   ## :grey_question: Questions
-  *Please feel free to reach out to me with any questions<br />
+  Please feel free to reach out to me with any questions<br />
   :wave: Github: <a name = "questions">[${response.github}](https://github.com/${response.github})</a>
   <br />
   :postbox: Email: <a name = "questions">${response.email}</a>

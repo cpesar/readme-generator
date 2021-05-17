@@ -4,7 +4,7 @@
   <br />
 
   ## Description
-    This is a README.md generator that prompts the user with a series of questions about their project. A proper README is someting that should be included with every project. This application streamlines the process  using the command line to generate a professional looking README.
+  This is a README.md generator that prompts the user with a series of questions about their project. This application streamlines the process by utilizing command line to generate a professional README.md.
   <br />
   
   
@@ -27,7 +27,7 @@
 
 
   ## :desktop_computer: Usage
-  <a name="usage">This is a node.js command line application that generates a professional README.md</a>
+  <a name="usage">This project is used to generate a README.md </a>
   <br />
   
   
@@ -44,11 +44,11 @@
   
 
   ## :hourglass: Tests
-  <a name="tests">There are no tests at this time</a>
+  <a name="tests">There are no tests at this time.</a>
   
 
   ## :grey_question: Questions
-  *Please feel free to reach out to me with any questions<br />
+  Please feel free to reach out to me with any questions<br />
   :wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
   <br />
   :postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
