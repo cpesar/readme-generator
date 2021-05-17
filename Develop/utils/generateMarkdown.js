@@ -77,7 +77,11 @@ function generateMarkdown(response) {
 
   ## :wrench: Installation
   <a name="installation">${response.installation}</a>
- 
+  <br />
+  <iframe src="https://drive.google.com/file/d/14J-3GaE-y7T6wYinofj4avqoMBsfqU_Y/preview" width="640" height="480"></iframe>
+  <br />
+
+  <iframe src="https://drive.google.com/file/d/1USQprmTxogdYUS7280gMbGUlrJPp_HXZ/preview" width="640" height="480"></iframe>
   <br />
 
 
