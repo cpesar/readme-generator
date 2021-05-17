@@ -25,6 +25,9 @@
   * Type the following command at the root of your project:
   ``node index.js``
   * Ensure that you are in the proper folder for your project
+  
+  ![Node](https://user-images.githubusercontent.com/77510555/118427210-ec875900-b689-11eb-8bd9-0808646d7cd6.png)
+
   <br />
 
 
