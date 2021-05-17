@@ -77,8 +77,7 @@ function generateMarkdown(response) {
 
   ## :wrench: Installation
   <a name="installation">${response.installation}</a>
-  * Type the following command at the root of your project:
-  * Ensure that you are in the proper folder for your project
+ 
   <br />
 
 
@@ -89,7 +88,7 @@ function generateMarkdown(response) {
   
 
   ## :scroll: License 
-  ${renderLicenseBadge(response.license)}
+  <a name="license">${renderLicenseBadge(response.license)}</a>
   <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}
 
 
@@ -104,6 +103,7 @@ function generateMarkdown(response) {
   
 
   ## :grey_question: Questions
+  *Please feel free to reach out to me with any questions<br />
   :wave: Github: <a name = "questions">[${response.github}](https://github.com/${response.github})</a>
   <br />
   :postbox: Email: <a name = "questions">${response.email}</a>
