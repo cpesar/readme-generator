@@ -79,6 +79,7 @@ inquirer.prompt ([
   {
                   //(FILE NAME, FUNCTION NAME, PARAMETER)
   fs.writeFileSync("README.md", generateMarkdown(response))
+
   console.log('Successfully Wrote to README.md file');
   
 })
