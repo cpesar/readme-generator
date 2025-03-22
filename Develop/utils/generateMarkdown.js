@@ -1,7 +1,4 @@
-// FUNCTION TO RETURN LICENSE BADGE
-// If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  //RETURNS EMPTY STRING
   if (!license) {
     return "";
   }
@@ -14,10 +11,7 @@ function renderLicenseBadge(license) {
   }
 }
 
-// FUNCTION TO RETURN LICENSE LINK
-// If there is no license, return an empty string
 function renderLicenseLink(license) {
-  //RETURNS EMPTY STRING
   if (!license) {
     return "";
   }
@@ -30,11 +24,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// FUNCTION THAT RETURNS LICENSE SECTION OF README
-// If there is no license, return an empty string
-//
 function renderLicenseSection(license) {
-  //RETURNS EMPTY STRING
   if (!license) {
     return "";
   }
@@ -47,7 +37,6 @@ function renderLicenseSection(license) {
   }
 }
 
-// FUNCTION GENERATE MARKDOWN FOR README
 function generateMarkdown(response) {
   return `# <p align="center"> ${response.title} </p>
   
