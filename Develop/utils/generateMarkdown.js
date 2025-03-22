@@ -2,35 +2,33 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   //RETURNS EMPTY STRING
-  if(!license){
-    return '';
-  } if (license === "Mozilla"){
-    return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`
-
-  } else if (license === "MIT"){
-      return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
-
-  } else if (license === "Apache"){
-    return `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
-  } 
-};
+  if (!license) {
+    return "";
+  }
+  if (license === "Mozilla") {
+    return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`;
+  } else if (license === "MIT") {
+    return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
+  } else if (license === "Apache") {
+    return `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
+  }
+}
 
 // FUNCTION TO RETURN LICENSE LINK
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   //RETURNS EMPTY STRING
   if (!license) {
-    return '';
-  } if (license === "Mozilla"){
-    return `[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)`
-
-  } else if (license === "MIT"){
-    return `[Please click here to view the license](https://opensource.org/licenses/MIT)`
-
-  } else if (license === "Apache") {
-    return `[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)`
+    return "";
   }
-};
+  if (license === "Mozilla") {
+    return `[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)`;
+  } else if (license === "MIT") {
+    return `[Please click here to view the license](https://opensource.org/licenses/MIT)`;
+  } else if (license === "Apache") {
+    return `[Please click here to view the license](https://www.apache.org/licenses/LICENSE-2.0.txt)`;
+  }
+}
 
 // FUNCTION THAT RETURNS LICENSE SECTION OF README
 // If there is no license, return an empty string
@@ -38,21 +36,19 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   //RETURNS EMPTY STRING
   if (!license) {
-    return '';
-  } if (license === "Mozilla"){
-    return 'This application is licensed under Mozilla. All rights reserved.'
-
-  } else if (license === "MIT"){
-    return 'This application is licensed under MIT. All rights reserved.'
-
+    return "";
+  }
+  if (license === "Mozilla") {
+    return "This application is licensed under Mozilla. All rights reserved.";
+  } else if (license === "MIT") {
+    return "This application is licensed under MIT. All rights reserved.";
   } else if (license === "Apache") {
-    return 'This application is licensed under Apache. All rights reserved.'
+    return "This application is licensed under Apache. All rights reserved.";
   }
 }
 
 // FUNCTION GENERATE MARKDOWN FOR README
 function generateMarkdown(response) {
-  
   return `# <p align="center"> ${response.title} </p>
   
   ${renderLicenseBadge(response.license)} 
@@ -89,7 +85,9 @@ function generateMarkdown(response) {
 
   ## :scroll: License 
   <a name="license">${renderLicenseBadge(response.license)}</a>
-  <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(response.license)}
+  <br />${renderLicenseSection(response.license)}<br />${renderLicenseLink(
+    response.license
+  )}
 
 
   ## :weight_lifting_man: Contribution
@@ -104,7 +102,9 @@ function generateMarkdown(response) {
 
   ## :grey_question: Questions
   Please feel free to reach out to me with any questions<br />
-  :wave: Github: <a name = "questions">[${response.github}](https://github.com/${response.github})</a>
+  :wave: Github: <a name = "questions">[${
+    response.github
+  }](https://github.com/${response.github})</a>
   <br />
   :postbox: Email: <a name = "questions">${response.email}</a>
   
