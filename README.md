@@ -4,7 +4,7 @@
   <br />
 
   ## Description
-  This is a README.md generator that prompts the user with a series of questions about their project. This application streamlines the process of writing a README.md by utilizing the command line to generate a professional README.md.
+  This application streamlines the process of writing a README.md by utilizing the command line to generate a professional README.md.
   <br />
   
   
